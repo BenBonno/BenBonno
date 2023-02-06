@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript and SASS**
 
-- 👯 I’m looking to collaborate on **anyone who give me a chance ;)**
+- 👯 I’m looking to collaborate on **anyone who will give me a chance and trust me ;)**
 
 - 📫 How to reach me **benoit.bonnoron@gmail.com**
 
