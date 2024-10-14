@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **everything i can work on**
 
-- 🌱 I’m currently learning **Typescript and SASS**
+- 🌱 I’m currently learning **Typescript and Python**
 
 - 👯 I’m looking to collaborate on **anyone who will give me a chance and trust me ;)**
 
